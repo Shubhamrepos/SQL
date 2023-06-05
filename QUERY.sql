@@ -1,0 +1,1 @@
+SELECT name FROM food_db.items;
